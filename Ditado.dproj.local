@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/16 08:49:09.000.224,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/27 17:28:47.000.614,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/27 19:13:13.000.924,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/28 11:09:28.000.115,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/28 11:51:18.000.792,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 12:29:36.000.982,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 12:21:15.000.463,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 17:08:47.000.766,C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Fontes\Ditadordo Windows\Unit1.dfm</Transaction>
+    <Transaction>2023/03/04 17:08:47.000.766,C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Fontes\Ditadordo Windows\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 17:08:49.000.969,C:\Users\conec\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Fontes\Ditadordo Windows\Project1.dproj</Transaction>
+    <Transaction>2023/03/04 18:13:44.391,C:\Fontes\Ditadordo Windows\Ditado.dproj=C:\Fontes\Ditadordo Windows\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
